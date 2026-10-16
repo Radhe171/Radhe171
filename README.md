@@ -1,23 +1,35 @@
-<h1 align="center">Hi 👋, I'm Radheshyam borban</h1>
-<h3 align="center">💻 CSE Student | C++ & DSA | Web Development Learner | Building My Coding Journey 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhe171&label=Profile%20views&color=0e75b6&style=flat" alt="radhe171" /> </p>
+## 🚀 Featured Projects
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radhe171" alt="radhe171" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [farmer web](https://farmer-web.netlify.app/?)
+<a href="https://github.com/Radhe171/java-script">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=java-script&theme=tokyonight&hide_border=true" alt="JavaScript repository card" />
+</a>
+<a href="https://github.com/Radhe171/project-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=project-clone&theme=tokyonight&hide_border=true" alt="Project Clone repository card" />
+</a>
 
-- 🌱 I’m currently learning **frontend**
+<a href="https://github.com/Radhe171/farmer-web-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=farmer-web-&theme=tokyonight&hide_border=true" alt="Farmer Web repository card" />
+</a>
 
-- 👯 I’m looking to collaborate on [farmer web](https://farmer-web.netlify.app/?)
+</div>
 
-- 💬 Ask me about **react**
+### 💻 About My Projects
 
-- 📫 How to reach me **kingrb530@gmail.com**
+| Project | Description |
+|---|---|
+| [JavaScript](https://github.com/Radhe171/java-script) | JavaScript practice, concepts, and coding examples |
+| [Farmer Web](https://github.com/Radhe171/farmer-web-) | A web project focused on the farming domain |
+| [Project Clone](https://github.com/Radhe171/project-clone) | A website clone project for frontend practice |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/radheshyam-borban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radheshyam-borban" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Radhe171?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All%20Repositories-2563EB?style=for-the-badge&logo=github" alt="Explore all repositories" />
+  </a>
+</p>
+target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radheshyam-borban" height="30" width="40" /></a>
 <a href="https://instagram.com/i_radhe_x18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_radhe_x18" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kingrb530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kingrb530" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/i_radhe18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_radhe18" height="30" width="40" /></a>
