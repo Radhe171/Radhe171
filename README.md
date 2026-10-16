@@ -36,29 +36,7 @@
 
 ---
 
-<!-- ===================== GITHUB OVERVIEW ===================== -->
 
-## 🌌 GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/Radhe171?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20All-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories" />
-</a>
-<a href="https://github.com/Radhe171?tab=stars">
-  <img src="https://img.shields.io/badge/Starred%20Projects-View%20Stars-0D1117?style=for-the-badge&logo=github&logoColor=FACC15" alt="Starred projects" />
-</a>
-
-</div>
-
-| 🎯 Focus Area | 🚀 Goal |
-|:---|:---|
-| 💻 C++ & DSA | Improve problem-solving skills |
-| 🌐 Web Development | Build practical web projects |
-| 📚 Learning | Practice consistently |
-| 🤝 Collaboration | Explore open-source opportunities |
-
----
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -167,6 +145,7 @@
 
 ---
 
+
 <!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect With Me
@@ -198,8 +177,33 @@
 </div>
 
 ---
+<!-- ===================== GITHUB OVERVIEW ===================== -->
+
+## 🌌 GitHub Overview
 
 <div align="center">
+
+<a href="https://github.com/Radhe171?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore%20All-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories" />
+</a>
+<a href="https://github.com/Radhe171?tab=stars">
+  <img src="https://img.shields.io/badge/Starred%20Projects-View%20Stars-0D1117?style=for-the-badge&logo=github&logoColor=FACC15" alt="Starred projects" />
+</a>
+
+</div>
+
+| 🎯 Focus Area | 🚀 Goal |
+|:---|:---|
+| 💻 C++ & DSA | Improve problem-solving skills |
+| 🌐 Web Development | Build practical web projects |
+| 📚 Learning | Practice consistently |
+| 🤝 Collaboration | Explore open-source opportunities |
+
+---
+
+<div align="center">
+
+
 
 ### 💙 Thanks for visiting my profile!
 
