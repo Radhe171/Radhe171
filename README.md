@@ -24,7 +24,6 @@
 ---
 
 ## 🚀 About Me
-
 - 🎓 Computer Science Engineering student
 - 💻 Practicing C++ and Data Structures & Algorithms
 - 🌐 Exploring frontend development
