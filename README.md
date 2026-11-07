@@ -130,7 +130,6 @@
 
 ### 🌱 Project Highlights
 
-- **[JavaScript](https://github.com/Radhe171/java-script)** — Practice and explore JavaScript concepts.
 - **[Farmer Web](https://github.com/Radhe171/farmer-web-)** — A web project focused on the farming domain.
 - **[Project Clone](https://github.com/Radhe171/project-clone)** — A project focused on recreating a website interface.
 
