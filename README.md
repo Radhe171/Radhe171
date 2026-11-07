@@ -1,13 +1,15 @@
 
 <!-- ===================== RADHE171 PROFILE README ==================== -->
 
+<div align="center"><!-- ===================== RADHE171 PROFILE README ==================== -->
+
 <div align="center">
 
 # 👋 Hey, I'm Radheshyam Borban
 
 ### 💻 CSE Student | C++ & DSA | Frontend Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+by+Building+%F0%9F%9A%80;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Exploring+Frontend+Development;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+by+Building+%F0%9F%9A%80;C%2B%2B+%26+DSA;Frontend+Development+%F0%9F%9A%80;Building+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/Radhe171">
@@ -35,8 +37,6 @@
 
 ---
 
-
-
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Languages & Tools
@@ -56,10 +56,10 @@
 <div align="center">
 
 <a href="https://github.com/Radhe171">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Radhe171&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Radhe171&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Radhe171?tab=repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhe171&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhe171&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" />
 </a>
 
 </div>
@@ -86,14 +86,16 @@
 
 ---
 
-<!-- ===================== CONTRIBUTION ACTIVITY GRAPH ===================== -->
+<!-- ===================== SNAKE GAME ===================== -->
 
-## 📈 Contribution & Commit Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhe171&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Radhe171%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radhe171/Radhe171/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radhe171/Radhe171/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Radhe171/Radhe171/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -117,13 +119,13 @@
 <div align="center">
 
 <a href="https://github.com/Radhe171/java-script">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=java-script&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="JavaScript repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=java-script&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="JavaScript repo card" />
 </a>
 <a href="https://github.com/Radhe171/project-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=project-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Project Clone repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=project-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Project Clone repo card" />
 </a>
 <a href="https://github.com/Radhe171/farmer-web-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=farmer-web-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Farmer Web repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radhe171&repo=farmer-web-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Farmer Web repo card" />
 </a>
 
 </div>
@@ -142,7 +144,6 @@
 </div>
 
 ---
-
 
 <!-- ===================== CONNECT ===================== -->
 
@@ -200,8 +201,6 @@
 ---
 
 <div align="center">
-
-
 
 ### 💙 Thanks for visiting my profile!
 
