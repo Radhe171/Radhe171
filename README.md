@@ -1,12 +1,37 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ ║ PREMIUM ANIMATED GITHUB PROFILE README — Radheshyam Borban ║ ║ Theme: Black (#0D1117) + Electric Blue (#00BFFF) ║ ║ Customize anything marked with "CUSTOMIZE" comments. ║ ╚══════════════════════════════════════════════════════════════════╝ --> <!-- ═════════════════ 1. ANIMATED HEADER ═════════════════ --> <!-- CUSTOMIZE: change `text=` (name), `desc=` (subtitle), `color=` (gradient), `height=` --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A1A3F,100:00BFFF&height=250&section=header&text=RADHESHYAM%20BORBAN&fontSize=52&fontColor=00BFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CSE%20STUDENT&descSize=20&descAlignY=60&descColor=FFFFFF" alt="Radheshyam Borban - Software Developer | CSE Student" /> </div> <!-- ═════════════════ 2. ANIMATED TYPING INTRO ═════════════════ --> <!-- CUSTOMIZE: edit the `lines=` values. Separate lines with ';' and use '+' for spaces. --> <div align="center"> <a href="https://github.com/Radhe171"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Radheshyam+Borban+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;C%2B%2B+and+DSA+Enthusiast+%F0%9F%9A%80;MERN+Stack+Developer+in+Progress+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%A4%9D" alt="Typing animation" /> </a> </div> <br/> <div align="center"> <img src="https://img.shields.io/badge/CSE-Student-00BFFF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0D1117" alt="CSE Student" /> <img src="https://img.shields.io/badge/Focus-MERN%20Stack-00BFFF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" alt="Focus MERN Stack" /> <img src="https://img.shields.io/badge/Practicing-DSA-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="Practicing DSA" /> <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-00BFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="Open Source" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" /> <!-- ═════════════════ 3. ABOUT ME ═════════════════ --> <!-- CUSTOMIZE: edit the table rows below to update your "About Me" -->
-👨‍💻 About Me
-<table align="center" width="100%"> <tr> <td width="100%">
-yaml
-name        : Radheshyam Borban
-role        : CSE Student | Aspiring Software Developer
-focus       : MERN Stack Development
-languages   : [C++, JavaScript, Python]
-interests   : [Web Development, DSA, Software Development, Open Source]
+<h1 align="center">Hi 👋, I'm Radheshyam borban</h1>
+<h3 align="center">💻 CSE Student | C++ & DSA | Web Development Learner | Building My Coding Journey 🚀</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhe171&label=Profile%20views&color=0e75b6&style=flat" alt="radhe171" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radhe171" alt="radhe171" /></a> </p>
+
+- 🔭 I’m currently working on [farmer web](https://farmer-web.netlify.app/?)
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on [farmer web](https://farmer-web.netlify.app/?)
+
+- 💬 Ask me about **java script**
+
+- 📫 How to reach me **kingrb530@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/radheshyam-borban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radheshyam-borban" height="30" width="40" /></a>
+<a href="https://instagram.com/i_radhe_x18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_radhe_x18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kingrb530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kingrb530" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/i_radhe18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_radhe18" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kingrv6po" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kingrv6po" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhe171&show_icons=true&locale=en&layout=compact" alt="radhe171" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhe171&show_icons=true&locale=en" alt="radhe171" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhe171&" alt="radhe171" /></p> DSA, Software Development, Open Source]
 🔭 Currently learning the MERN Stack
 🧠 Practicing Data Structures and Algorithms
 🌐 Exploring modern web technologies
