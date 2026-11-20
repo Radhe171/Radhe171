@@ -2,15 +2,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Radheshyam%20Borban&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header" />
-
-
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=radhe171&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
-
 <br>
 <img align="center" width ="100%" hight="50%" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" alt="developer">
 
@@ -25,7 +20,6 @@
 - 📫 How to reach me: **kingrb530@gmail.com**
 
 <br>
-
 <!-- ===== SOCIALS ===== -->
 <h2 align="center">🌐 Connect With Me</h2>
 
