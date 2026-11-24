@@ -24,12 +24,9 @@
   <a href="https://auth.geeksforgeeks.org/user/kingrv6po" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="35" width="45" /></a>
   <a href="mailto:kingrb530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
 </p>
-
 <img align="center" width="100%" alt="divider" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">🛠️ Languages and Tools</h2>
-
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a>
@@ -50,7 +47,6 @@
 <br>
 <!-- ===== GITHUB STATS ===== -->
 <h2 align="center">📊 GitHub Status</h2>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -61,7 +57,6 @@
     </td>
   </tr>
 </table>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=radhe171&theme=onedark&column=7" alt="Trophies" />
