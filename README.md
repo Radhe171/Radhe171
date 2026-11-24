@@ -47,9 +47,7 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
 </p>
-
 <br>
-
 <!-- ===== GITHUB STATS ===== -->
 <h2 align="center">📊 GitHub Status</h2>
 
