@@ -1,26 +1,21 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Radheshyam%20Borban&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header" />
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=radhe171&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
 </div>
 <br>
 <img align="center" width ="100%" hight="50%" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" alt="developer">
 <!-- ===== ABOUT ===== -->
 <h2 align="center">✨ About Me</h2>
-
 - 🔭 I’m currently working on [farmer web](https://farmer-web.netlify.app/)
 - 🌱 I’m currently learning **Full-Stack Devlopment**
 - 👯 I’m looking to collaborate on [farmer web](https://farmer-web.netlify.app/)
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me: **kingrb530@gmail.com**
-
 <br>
 <!-- ===== SOCIALS ===== -->
 <h2 align="center">🌐 Connect With Me</h2>
-
 <p align="center">
   <a href="https://linkedin.com/in/radheshyam-borban" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
   <a href="https://instagram.com/i_radhe_x18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
