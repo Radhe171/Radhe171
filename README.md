@@ -14,7 +14,7 @@
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me: **kingrb530@gmail.com**
 <br>
-<!-- ===== SOCIALS ===== -->
+<!--===== SOCIALS =====-->
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/radheshyam-borban" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
