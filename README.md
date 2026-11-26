@@ -6,7 +6,7 @@
 </div>
 <br>
 <img align="center" width ="100%" hight="50%" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" alt="developer">
-<!-- ===== ABOUT ===== -->
+<!--===== ABOUT =====-->
 <h2 align="center">✨ About Me</h2>
 - 🔭 I’m currently working on [farmer web](https://farmer-web.netlify.app/)
 - 🌱 I’m currently learning **Full-Stack Devlopment**
