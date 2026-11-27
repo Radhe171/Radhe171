@@ -1,4 +1,4 @@
-<!-- ===== HEADER ===== -->
+<!-- ==== HEADER ===== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Radheshyam%20Borban&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header" />
 <br><br>
